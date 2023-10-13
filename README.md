@@ -19,10 +19,10 @@ This is not just a simple list of projects, but a collection that describes each
 
 Each project has the following **features**:
 
-1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
-4. All the resources and links to help you find what you need to complete the project
+1. A clearly articulated project objective, outlining its purpose.
+2. A flexible set of User Stories to guide your implementation process, allowing for your own additions.
+3. Optional bonus features that take your project and skills to the next level.
+4. A comprehensive resources and links section to support your successful project completion.
 
 Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
